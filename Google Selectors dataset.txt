@@ -1,0 +1,24 @@
+//*[@id="rso"]/div[1]/div/div[2]/div
+//*[@id="rso"]/div[2]/div/div[2]/div
+
+//*[@id="rso"]/div[1]/div/div[2]/div
+//*[@id="rso"]/div[2]/div/div[2]/div
+
+class="NJo7tc Z26q7c uUuwM"
+//*[@id="rso"]/div[2]/div/div[2]/div
+
+//*[@id="rso"]/div[1]/div/div/div/div[2]/div[1]
+
+#rso > div:nth-child(1) > div > div.NJo7tc.Z26q7c.uUuwM > div
+#rso > div:nth-child(4) > div > div.NJo7tc.Z26q7c.uUuwM > div
+#rso > div:nth-child(5) > div > div.NJo7tc.Z26q7c.uUuwM > div
+#rso > div:nth-child(10) > div > div.NJo7tc.Z26q7c.uUuwM > div
+
+#rso > div:nth-child(1) > div > div > div > div.IsZvec > div.VwiC3b.yXK7lf.MUxGbd.yDYNvb.lyLwlc.lEBKkf
+#rso > div:nth-child(15) > div > div > div.IsZvec > div.VwiC3b.yXK7lf.MUxGbd.yDYNvb.lyLwlc.lEBKkf
+
+#rso > div:nth-child(22) > div > div.NJo7tc.Z26q7c.uUuwM > div
+#rso > div:nth-child(22) > div > div.NJo7tc.Z26q7c.uUuwM > div > span:nth-child(2)
+
+#rso > div:nth-child(1) > div > div > div > div.IsZvec > div.VwiC3b.yXK7lf.MUxGbd.yDYNvb.lyLwlc.lEBKkf
+#kp-wp-tab-overview > div.TzHB6b.cLjAic.LMRCfc > div > div > div > div > div > div:nth-child(1) > div > div > div > span:nth-child(2)
